@@ -9,7 +9,7 @@ which will be rendered using data provided using switch case provided in the cod
 After providing data, form will be rendered in UI,after filling data when we click on submit button if all validations 
 satisfy then it will navigate to a new page which contains a button.If we click on that button then we can see entered
 form data in console, which means we are passing data from one page to another.
-If validations are not satisfied then we can see error with message under the field and a 'Not successfil' message in cosole.
+If validations are not satisfied then we can see error with message under the field and a 'Not successful' message in cosole.
 
 ## Bonus
 As a bonus content I have included a payment gateway field in code.Based on the data provided gateway
